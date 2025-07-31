@@ -12,7 +12,7 @@ Final result display
 
 Reset button to restart game and scores
 
-##🛠️ Requirements
+## Requirements
 Python 3.x
 
 Pillow library (for image handling)
@@ -33,18 +33,19 @@ rock (1).png, paper (1).png, scissor (1).png (Player images)
 rock (2).png, paper (2).png, scissor (2).png (Computer images)
 
 # Run the game:
+python main.py
 
 ## File Structure
 
-rock-paper-scissors-gui/
-│
-├── main.py              # Main Python script
-├── rock (1).png         # Player rock image
-├── paper (1).png        # Player paper image
-├── scissor (1).png      # Player scissor image
-├── rock (2).png         # Computer rock image
-├── paper (2).png        # Computer paper image
-├── scissor (2).png      # Computer scissor image
-└── README.md
 
+<img width="709" height="315" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/4f10829f-7577-4781-8777-73fc985f6a98" />
+
+
+## To-Do / Future Ideas
+
+Add sound effects for winning or losing
+
+Add animation for hand selection
+
+Add difficulty levels
 
