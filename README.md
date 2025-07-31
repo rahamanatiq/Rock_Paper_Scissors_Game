@@ -32,7 +32,7 @@ rock (1).png, paper (1).png, scissor (1).png (Player images)
 
 rock (2).png, paper (2).png, scissor (2).png (Computer images)
 
-# Run the game:
+## Run the game:
 python main.py
 
 ## File Structure
@@ -49,5 +49,4 @@ python main.py
 
 3. dd difficulty levels
 
-## License
-This project is licensed under the MIT License.
+
