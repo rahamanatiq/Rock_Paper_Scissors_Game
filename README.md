@@ -2,7 +2,7 @@
 A simple Rock Paper Scissors game built with Python's Tkinter library. It features a graphical user interface, score tracking, dynamic images for both the player and the computer, and a reset button.
 
 ## Features
-Intuitive GUI using Tkinter
+1. Intuitive GUI using Tkinter
 
 Dynamic images for Player and Computer moves
 
