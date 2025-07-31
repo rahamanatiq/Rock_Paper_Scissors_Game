@@ -4,29 +4,29 @@ A simple Rock Paper Scissors game built with Python's Tkinter library. It featur
 ## Features
 1. Intuitive GUI using Tkinter
 
-Dynamic images for Player and Computer moves
+2. Dynamic images for Player and Computer moves
 
-Score tracking
+3. Score tracking
 
-Final result display
+4. Final result display
 
-Reset button to restart game and scores
+5. Reset button to restart game and scores
 
 ## Requirements
-Python 3.x
+1. Python 3.x
 
-Pillow library (for image handling)
+2. Pillow library (for image handling)
 
 
 ## How to Run
-Clone this repository:
+(1) Clone this repository:
 
 git clone https://github.com/your-username/rock-paper-scissors-gui.git
 
 cd rock-paper-scissors-gui
 
 
-Make sure the following image files are present in the same directory:
+(2) Make sure the following image files are present in the same directory:
 
 rock (1).png, paper (1).png, scissor (1).png (Player images)
 
@@ -43,9 +43,11 @@ python main.py
 
 ## To-Do / Future Ideas
 
-Add sound effects for winning or losing
+1. Add sound effects for winning or losing
 
-Add animation for hand selection
+2. Add animation for hand selection
 
-Add difficulty levels
+3. dd difficulty levels
 
+## License
+This project is licensed under the MIT License.
