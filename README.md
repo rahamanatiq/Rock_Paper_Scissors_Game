@@ -38,7 +38,8 @@ python main.py
 # File Structure
 
 
-<img width="709" height="315" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/4f10829f-7577-4781-8777-73fc985f6a98" />
+
+<img width="617" height="298" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/37ab401d-4f4d-48e4-9efe-e92bc3598872" />
 
 
 # To-Do / Future Ideas
